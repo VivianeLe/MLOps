@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/viviane/Desktop/MLOps/MLOps/lessons/01-model-and-experiment-management/mlruns/690688475094797060/f6373b09665940229a6aa3dae592ac20/artifacts
+end_time: 1705078504119
+entry_point_name: ''
+experiment_id: '690688475094797060'
+lifecycle_stage: active
+run_id: f6373b09665940229a6aa3dae592ac20
+run_name: traveling-sloth-536
+run_uuid: f6373b09665940229a6aa3dae592ac20
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705078479737
+status: 3
+tags: []
+user_id: viviane

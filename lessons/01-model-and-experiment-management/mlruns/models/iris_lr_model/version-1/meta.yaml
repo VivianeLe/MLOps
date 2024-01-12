@@ -1,0 +1,13 @@
+aliases: []
+creation_timestamp: 1704923633003
+current_stage: None
+description: null
+last_updated_timestamp: 1704923633003
+name: iris_lr_model
+run_id: 34ff375f0f894397b6e005841bbf7344
+run_link: null
+source: file:///Users/viviane/Desktop/MLOps/MLOps/lessons/01-model-and-experiment-management/mlruns/882486366970348544/34ff375f0f894397b6e005841bbf7344/artifacts/models
+status: READY
+status_message: null
+user_id: null
+version: 1

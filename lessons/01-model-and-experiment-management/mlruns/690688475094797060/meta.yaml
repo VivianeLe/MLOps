@@ -1,0 +1,6 @@
+artifact_location: file:///Users/viviane/Desktop/MLOps/MLOps/lessons/01-model-and-experiment-management/mlruns/690688475094797060
+creation_time: 1705078302460
+experiment_id: '690688475094797060'
+last_update_time: 1705078302460
+lifecycle_stage: active
+name: taxi_linear_model

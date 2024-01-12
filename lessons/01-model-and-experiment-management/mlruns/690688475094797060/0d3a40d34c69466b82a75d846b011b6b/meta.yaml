@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/viviane/Desktop/MLOps/MLOps/lessons/01-model-and-experiment-management/mlruns/690688475094797060/0d3a40d34c69466b82a75d846b011b6b/artifacts
+end_time: 1705078326453
+entry_point_name: ''
+experiment_id: '690688475094797060'
+lifecycle_stage: active
+run_id: 0d3a40d34c69466b82a75d846b011b6b
+run_name: painted-vole-517
+run_uuid: 0d3a40d34c69466b82a75d846b011b6b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705078302463
+status: 3
+tags: []
+user_id: viviane

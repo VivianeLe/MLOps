@@ -1,0 +1,13 @@
+aliases: []
+creation_timestamp: 1705080876430
+current_stage: Production
+description: null
+last_updated_timestamp: 1705081787079
+name: taxi_xgb_model
+run_id: 127d17d841d6463692f270f8751df29d
+run_link: null
+source: file:///Users/viviane/Desktop/MLOps/MLOps/lessons/01-model-and-experiment-management/mlruns/629539494318493535/127d17d841d6463692f270f8751df29d/artifacts/model
+status: READY
+status_message: null
+user_id: null
+version: 4

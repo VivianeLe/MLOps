@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/viviane/Desktop/MLOps/MLOps/lessons/01-model-and-experiment-management/mlruns/109981188728956741/abc89a3ecd994841b3c4066f1462e40a/artifacts
+end_time: 1704926416271
+entry_point_name: ''
+experiment_id: '109981188728956741'
+lifecycle_stage: active
+run_id: abc89a3ecd994841b3c4066f1462e40a
+run_name: peaceful-moth-903
+run_uuid: abc89a3ecd994841b3c4066f1462e40a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704926391579
+status: 3
+tags: []
+user_id: viviane

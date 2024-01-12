@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/viviane/Desktop/MLOps/MLOps/lessons/01-model-and-experiment-management/mlruns/334534016428208977/6493fdb374b94b658e428f88b12f751b/artifacts
+end_time: 1705080975077
+entry_point_name: ''
+experiment_id: '334534016428208977'
+lifecycle_stage: active
+run_id: 6493fdb374b94b658e428f88b12f751b
+run_name: judicious-bat-349
+run_uuid: 6493fdb374b94b658e428f88b12f751b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705080972635
+status: 3
+tags: []
+user_id: viviane

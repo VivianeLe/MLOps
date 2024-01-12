@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/viviane/Desktop/MLOps/MLOps/lessons/01-model-and-experiment-management/mlruns/629539494318493535/127d17d841d6463692f270f8751df29d/artifacts
+end_time: 1705080876435
+entry_point_name: ''
+experiment_id: '629539494318493535'
+lifecycle_stage: active
+run_id: 127d17d841d6463692f270f8751df29d
+run_name: adorable-hawk-254
+run_uuid: 127d17d841d6463692f270f8751df29d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705080858362
+status: 3
+tags: []
+user_id: viviane

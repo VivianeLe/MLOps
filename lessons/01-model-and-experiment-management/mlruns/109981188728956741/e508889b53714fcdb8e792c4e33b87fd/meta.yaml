@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/viviane/Desktop/MLOps/MLOps/lessons/01-model-and-experiment-management/mlruns/109981188728956741/e508889b53714fcdb8e792c4e33b87fd/artifacts
+end_time: 1705075471128
+entry_point_name: ''
+experiment_id: '109981188728956741'
+lifecycle_stage: active
+run_id: e508889b53714fcdb8e792c4e33b87fd
+run_name: brawny-chimp-56
+run_uuid: e508889b53714fcdb8e792c4e33b87fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705075446159
+status: 3
+tags: []
+user_id: viviane
