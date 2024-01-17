@@ -1,0 +1,6 @@
+artifact_location: file:///Users/viviane/Desktop/MLOps/MLOps/lessons/01-model-and-experiment-management/mlruns/334534016428208977
+creation_time: 1705080972633
+experiment_id: '334534016428208977'
+last_update_time: 1705080972633
+lifecycle_stage: active
+name: iris-experiment-1

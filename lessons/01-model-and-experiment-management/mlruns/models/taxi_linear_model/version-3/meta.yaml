@@ -1,0 +1,13 @@
+aliases: []
+creation_timestamp: 1705077712064
+current_stage: None
+description: null
+last_updated_timestamp: 1705077712064
+name: taxi_linear_model
+run_id: 970e75e26d294a748d82ffcb7d918233
+run_link: null
+source: file:///Users/viviane/Desktop/MLOps/MLOps/lessons/01-model-and-experiment-management/mlruns/109981188728956741/970e75e26d294a748d82ffcb7d918233/artifacts/taxi-model
+status: READY
+status_message: null
+user_id: null
+version: 3
