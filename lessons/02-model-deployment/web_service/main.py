@@ -1,4 +1,4 @@
-from fastapi import FastAPI, HTTPException, Request
+from fastapi import FastAPI
 from pydantic import BaseModel
 from lib.preprocessing import encode_categorical_cols, load_preprocessor
 from lib.models import get_model
@@ -9,7 +9,7 @@ import pandas as pd
 from sklearn.base import BaseEstimator
 from app_config import PATH_TO_PREPROCESSOR, PATH_TO_MODEL, CATEGORICAL_COLS
 import logging
-import logging.config
+# import logging.config
 
 logger = logging.getLogger(__name__)
 
@@ -30,12 +30,12 @@ def run_inference(user_input: List[InputData], dv: DictVectorizer, model: BaseEs
 
 @app.get("/")
 def read_root():
-    return {"message": "Welcome to the Inference API!"}
+    return {"message": "Trip duration prediction!"}
 
 @app.post("/predict_duration")
 def predict_duration_route(payload: InputData):
     dv = load_preprocessor(PATH_TO_PREPROCESSOR)
     model = get_model(PATH_TO_MODEL)
     y = run_inference([payload], dv, model)
-    return {"trip_duration_prediction: ": y[0]}
+    return {"Hello, your trip duration prediction is: ": y[0]}
 
