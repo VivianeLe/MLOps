@@ -35,7 +35,7 @@ def train_model_workflow(
 
     return {'train_score': score}
 
-
+@flow
 def batch_predict_workflow(
     input_filepath: str,
     model: Optional[LinearRegression] = None,
